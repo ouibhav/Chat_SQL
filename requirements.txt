@@ -1,0 +1,5 @@
+langchain
+langchain-community
+mysql-connector-python
+SQLAlchemy
+langchain-groq
